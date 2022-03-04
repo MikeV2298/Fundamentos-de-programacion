@@ -15,13 +15,6 @@ La variable se caracteriza por ser inestable, inconstante y mudable.
 
 ### Nombrando una variable
 Como se mencionó anteriormente, la variable no se debe representar con caracteres que no sea una letra al principio, además esa variable no debe ser una palabra reservada de PYTHON, como, por ejemplo: False, None, if, elif, is, in, while, and, def, not, for , entre otras, usualmente se representa con una letra “(letra)” o usando letras con números “num1”.
-Las maneras incorrectas de nombrar una variable son:
-```Python
-.numero= 10
-1palabra = “Star”
-nombre apellido = “Miguel Cevallos”
-tik-tok = “seguidores”
-```
 Además de asignar variables también haremos uso de la función “print”, esta permite imprimir el dato por medio de consola, ya sea para imprimir la variable o imprimir algo directamente, por ejemplo:
 ```Python
 x = 100
@@ -58,6 +51,17 @@ print(nombre)
 Además de esto también podemos guardar un dato en una variable la cuál será ingresada por el usuario por medio del teclado y esta puede pedir números o palabras. Para esto es necesario de usar la función “input”, esta función permite obtener el texto escrito por el usuario, el cual se asignará a un espacio de memoria con el nombre que el programador vea conveniente.
 Ejemplo:
 ```Python
-x = int(input("Ingrese dato: "))
+x = int(input(“Ingrese dato: ”))
 print(x)
 [output] Ingrese dato: << y también saldrá el dato ingresado >>
+```
+Las maneras incorrectas de nombrar una variable son:
+```Python
+.numero= 10
+1palabra = “Star”
+nombre apellido = “Miguel Cevallos”
+tik-tok = “seguidores”
+```
+
+## Operadores básicos
+
