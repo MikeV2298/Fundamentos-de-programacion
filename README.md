@@ -10,6 +10,7 @@ Es un lenguaje de programación de alto nivel que se utiliza para desarrollar ap
 Su filosofía hace hincapié en la legibilidad de su código, PYTHON es un lenguaje de programación multiparadigma, ya que soporta Programación Orientada a Objetos, Programación imperativa y en menor medida Programación Funcional. El creador de PYTHON es Guido Van Rossum.
 
 Python ha ido ganando adeptos gracias a su sencillez y a sus amplias posibilidades, sobre todo en los últimos años, ya que facilita trabajar con inteligencia artificial, big data, machine learning y data science, entre muchos otros campos en auge.
+![Uploading image.png…]()
 
 ## ¿Qué es una variable?
 En la variable se puede almacenar uno o varios caracteres (letras, números, etc.) que formen un tipo de dato con el cuál se pueda trabajar en el programa que vayamos a realizar, designándolo con un nombre (no se necesita que sea una palabra real específica) o una letra, pero esta no puede empezar con un carácter que no sea letra.
