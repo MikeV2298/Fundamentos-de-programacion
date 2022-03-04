@@ -58,6 +58,6 @@ print(nombre)
 Además de esto también podemos guardar un dato en una variable la cuál será ingresada por el usuario por medio del teclado y esta puede pedir números o palabras. Para esto es necesario de usar la función “input”, esta función permite obtener el texto escrito por el usuario, el cual se asignará a un espacio de memoria con el nombre que el programador vea conveniente.
 Ejemplo:
 ```Python
-x = int(input(“Ingrese dato: ”))
+x = int(input("Ingrese dato: "))
 print(x)
 [output] Ingrese dato: << y también saldrá el dato ingresado >>
