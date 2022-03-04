@@ -34,7 +34,7 @@ año = 2022
 ```
 Ahora para que la variable contenga letras se hace uso de las comillas (“ ”)
 ```Python
-Respuesta = “si”
+respuesta = “si”
 resp = “no”
 titulo3 = “Hello World”
 ```
