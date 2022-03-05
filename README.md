@@ -258,6 +258,7 @@ info= {
 }
 print(info)
 [output] {'Nombre ': 'Michael', 'Edad': 18, 'Documento': 2334857, 'Ciudad en la que reside': 'Palestina'}
+```
 
 ## Tomando decisiones
 Aquí entraremos al tema de los ciclos, loop y sentencias (if, for, break, continue, while).
