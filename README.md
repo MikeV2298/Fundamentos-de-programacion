@@ -42,7 +42,7 @@ nombre = “Michael Chango”
 print(nombre)
 [output] Michael Chango
 ```
-# Para imprimir directamente sin crear una variable.
+#Para imprimir directamente sin crear una variable.
 ```Python
 print (“Hello World”)
 [output] Hello World
